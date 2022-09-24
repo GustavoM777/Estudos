@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap%27%29%3B');
+  body{
+    background: url(https://image.freepik.com/fotos-gratis/renderizacao-3d-de-holofotes-em-uma-parede-de-tijolos-grunge_1048-6284.jpg);
+    background-size: cover;
+  }
+  .textoneon1{
+    position: absolute;
+    color: #fff;
+    top: 42%;
+    left: 50%;
+    font-size: 8vw;
+    transform: translate(-50%, -50%);
+    font-family:'Kaushan Script', cursive;
+    text-shadow: 1vw 1vw 1vw #000, 0 0 3vw #24ff00, 0 0 3vw #24ff00, 0 0 3vw #24ff00;
+}
+  .textoneon2{
+    position: absolute;
+    color: #fff;
+    top: 58%;
+    left: 50%;
+    font-size: 8vw;
+    transform: translate(-50%, -50%);
+    font-family:'Kaushan Script', cursive;
+    text-shadow: 1vw 1vw 1vw #000, 0 0 3vw #ff005b, 0 0 3vw #ff005b, 0 0 3vw #ff005b;
+}
